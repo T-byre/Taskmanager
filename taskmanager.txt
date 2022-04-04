@@ -1,0 +1,10 @@
+Taskmanager?
+-things you are gonna do today in a list
+	-buttons next to a task your gonna do
+		-if you press it it means you're done
+			-removes the task from the list or makes it transparent
+			-gets points
+				-if you don't do a task you lose points
+				-all the tasks in the list are removed after a day and all unfinished tasks will lose points
+				-if you complete all the tasks your gonna do today you get extra points
+-just one screen: the list of tasks you're gonna do
